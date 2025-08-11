@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahat E Batool</h1>
-<h3 align="center">Computer Scientist | Data & Automation | Web Designing</h3>
+<h3 align="center">Computer Scientist | Data & Automation | Graphic designing | Web Designing</h3>
 
 ---
 
